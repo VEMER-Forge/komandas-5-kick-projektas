@@ -1,5 +1,5 @@
 <h1 align="center">Techin html proktas 24JS 3-4</h1>
-<h2 aligin="center">5 komandos kick</h2>
+<h2 align="center">5 komandos kick</h2>
 
 ![Screenshot](https://github.com/VEMER-Forge/Test/blob/main/html-logo.png)
 
