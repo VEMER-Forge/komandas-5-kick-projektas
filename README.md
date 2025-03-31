@@ -1,7 +1,7 @@
 # html-projektas
 # komandos projektas html iš komandos 5
 
-<b style="text-aligin:center">Kas Dirba:</b>
+<b style="text-aligin:center">Projektas komandos nariai:</b>
 <p style="text-aligin:center">Yehor Derii</p>
 <p style="text-aligin:center">Dominik Jakubovič</p>
 <p style="text-aligin:center">Rapolas Kiveris</p>
