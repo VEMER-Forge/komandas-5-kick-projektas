@@ -1,0 +1,48 @@
+.pirmas{
+    width: 1440px;
+    height: 700px;
+    flex-shrink: 0;
+}
+.myteam{
+    width: 160px;
+height: 40px;
+flex-shrink: 0;
+}
+
+.home{
+    color: #FFF;
+font-family: Livvic;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px; /* 155.556% */
+}
+
+.about{
+    color: #FFF;
+font-family: Livvic;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px; /* 155.556% */
+}
+
+
+
+.find{
+    color: #FFF;
+font-family: Livvic;
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: 100px; /* 100% */
+}
+
+.talent{
+    color: #F67E7E;
+font-family: Livvic;
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: 100px;
+}
