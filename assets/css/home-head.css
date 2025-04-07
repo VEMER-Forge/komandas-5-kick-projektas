@@ -1,0 +1,36 @@
+body{
+background-color: #014E56;
+text-align: center;
+}
+.myT{
+width: 160px;
+height: 40px;
+color: #FFFFFF;
+}
+
+.home {
+    color: #FFF;
+    top: 0px;
+    left: 150px;
+    position: absolute;
+}
+
+.about {
+    color: #FFFFFF;
+    top: 0px;
+    left: 220px;
+
+    position: absolute;
+}
+
+.FIND {
+    color: #FFFFFF;
+    left: 57px;
+    
+    position: absolute;
+    
+}
+
+.talent {
+    color:#F67E7E ;
+}
