@@ -1,7 +1,9 @@
 main {
-    height: 684px;
+    height: 700px;
     flex-shrink: 0;
     background: #012f34;
+    color: #FFF;
+    margin-top: 700px;
 }
 .Build {
     width: 445px;
