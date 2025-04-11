@@ -1,0 +1,24 @@
+main {
+    width: 1440px;
+    height: 684px;
+    background: #012f34;
+}
+.Build {
+    width: 445px;
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.Exp {
+    width: 445px;
+    color: #F67E7E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    position: relative;
+    left: 300px;
+}
