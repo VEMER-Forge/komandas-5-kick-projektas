@@ -13,33 +13,9 @@ body {
 
 nav {
     background-color: #014E56;
-    padding: 20px 40px;
+    /* padding: 20px 40px; */
 }
 
-#topmenu {
-    display: flex;
-    align-items: center;
-    position: relative;
-}
-
-#topmenu p {
-    color: white;
-    margin-right: 40px;
-    font-weight: 600;
-}
-
-#topmenu p:first-child {
-    font-size: 1.5rem;
-    margin-right: auto;
-}
-
-.circle, .circles {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    margin-left: 10px;
-    object-fit: cover;
-}
 
 .rengtangle {
     position: absolute;
@@ -319,19 +295,5 @@ footer {
     
     #contact p {
         grid-column: 1 !important;
-    }
-}
-
-@media (max-width: 768px) {
-    #topmenu {
-        flex-wrap: wrap;
-    }
-    
-    #topmenu p:first-child {
-        margin-bottom: 10px;
-    }
-    
-    #infotext section:first-child p {
-        font-size: 2rem;
     }
 }
