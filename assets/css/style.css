@@ -76,7 +76,7 @@ line-height: 28px; /* 155.556% */
 }
 
 /* Decorative elements */
-.cube, .figure, .figures, .figuress, .cirkle, .oval, .ovall, .ovalll {
+.cube, .figure, .figures, .figuress, #cirkle, .oval, .ovall, .ovalll {
     position: absolute;
 }
 
@@ -90,7 +90,7 @@ line-height: 28px; /* 155.556% */
 }
 
 /* Avatar placeholders */
-.cirkle, .oval, .ovall, .ovalll {
+.oval, .ovall, .ovalll {
     width: 80px;
     height: 80px;
     border-radius: 50%;
