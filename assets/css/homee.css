@@ -1,15 +1,22 @@
 main {
-    width: 1440px;
     height: 684px;
+    flex-shrink: 0;
     background: #012f34;
 }
 .Build {
     width: 445px;
+    height: 144px;
     color: #FFF;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
     line-height: 48px;
+    margin-left: 165px;
+    margin-top: 198px;
+    margin-bottom: 342px;
+    position: absolute;
+    text-align: left;
+    right: 1;
 }
 
 .Exp {
@@ -19,6 +26,148 @@ main {
     font-style: normal;
     font-weight: 700;
     line-height: 28px;
-    position: relative;
-    left: 300px;
+    text-align: left;
+    margin-left: 830px;
+    margin-top: 198px;
+    margin-bottom: 458px;
+    margin-right: 165px;
+    position: absolute;
+    right: 0;
+}
+
+.net {
+    width: 445px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: left;
+    margin-left: 830px;
+    margin-top: 242px;
+    margin-bottom: 392px;
+    margin-right: 165px;
+    right: 0;
+ }
+
+.es {
+    width: 445px;
+    color: #F67E7E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    margin-left: 830px;
+    margin-top: 324px;
+    margin-bottom: 332px;
+    margin-right: 165px;
+    right: 0;
+}
+
+.proc {
+    width: 445px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: left;
+    margin-left: 830px;
+    margin-top: 368px;
+    margin-bottom: 266px;
+    margin-right: 165px;
+    right: 0;
+}
+
+.enc {
+    width: 445px;
+    color: #F67E7E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    margin-left: 830px;
+    margin-top: 450px;
+    margin-bottom: 206px;
+    margin-right: 165px;
+    right: 0;
+}
+
+.cust {
+    width: 445px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    position: absolute;
+    text-align: left;
+    margin-left: 830px;
+    margin-top: 494px;
+    margin-bottom: 140px;
+    margin-right: 165px;
+    right: 0;
+}
+
+.circless {
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    position: absolute;
+    margin-left: 735px;
+    margin-top: 198px;
+    margin-bottom: 414px;
+    margin-right: 633px;
+    right: 0;
+}
+
+.photo {
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    position: absolute;
+    margin-left: 735px;
+    margin-top: 324px;
+    margin-bottom: 288px;
+    margin-right: 633px;
+    right: 0;
+}
+
+.photoo {    
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    position: absolute;
+    margin-left: 735px;
+    margin-top: 450px;
+    margin-bottom: 162px;
+    margin-right: 633px;
+    right: 0;
+}
+
+.photooo {
+    height: 244px;
+    flex-shrink: 0;
+    position:absolute;
+    margin-left: 1340px;
+    margin-top: 440px;
+    right: 0;
+}
+
+.lin {
+    width: 50px;
+    height: 4px;
+    flex-shrink: 0;
+    background: #F67E7E;
+    position: absolute;
+    margin-left: 165px;
+    margin-top: 140px;
+    margin-bottom: 1225px;
+    margin-right: 540px;
+    right: 1;
 }
