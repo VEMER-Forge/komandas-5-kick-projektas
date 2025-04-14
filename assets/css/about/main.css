@@ -1,0 +1,52 @@
+.main {
+    background-color: #004047;
+    margin-top: 517px;
+}
+
+.cube{
+    width: 100px;
+    left: 0;
+}
+
+.text{
+    font-size: 48px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Livvic;
+}
+
+.card{
+    width: 350px;
+    height: 253px;
+
+    background-color: #012F34;
+    margin: 10px;
+    text-align: center;
+    font-family: Livvic;
+    color: #FFFFFF;
+}
+
+.imageCard{
+    width: 96px;
+    height: 96px;
+    margin-top: 20px;
+}
+
+.titleTxt{
+    color: #79C8C7;
+}
+
+.group{
+    display: flex;  
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+
+.card{
+    grid-column: 2;
+}
+
+.card:nth-child(1),.card:nth-child(2),.card:nth-child(3){
+    grid-column: 1;
+}

@@ -1,0 +1,100 @@
+body{
+    background-color: #014E56;
+    }
+    
+    .myteam {
+        margin-top: 77px;
+        margin-left:165px;
+        position: absolute;
+    }
+    
+    .home {
+        color: #FFF;
+        margin-top: 83px;
+        margin-left: 405px;
+        position: absolute;
+        font-family: Livvic;
+        text-decoration: none;
+    }
+    
+    .about {
+        color: #FFFFFF;
+        margin-top: 83px;
+        margin-left: 494px;
+        font-family: Livvic;
+        position: absolute;
+        text-decoration: none;
+    }
+    
+    .rengtangle{
+        border-radius: 24px;
+        border: 2px solid #012F34;
+        width: 153px;
+        height: 48px;
+        background-color: transparent;
+        color: #012F34;
+        font-family: Livvic;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 28px;
+        color: white;
+        margin-top: 73px;
+        margin-left: 1122px;
+        margin-right: 165px;
+    }
+    
+    .aboutTxt {
+        position: absolute ;
+        color: #FFFFFF;
+        text-align: left;
+        font-size: 100px;
+        line-height: 100px;
+        font-family: Livvic;
+        margin-left: 165px;
+        margin-top: 250px;
+    }
+    .pink{
+        color: #F67E7E;
+    }
+    
+    
+    
+    .textt {
+        margin-top: 333px;
+        margin-left: 830px;
+        position: absolute;
+        text-align: left;
+        font-size: 18px;
+        color: #FFFFFF;
+        font-family: Livvic;
+    }
+    
+    .circles {
+        position:absolute;
+        margin-top: 250px;
+        margin-right: 1340px;
+        margin-left: 0%;
+    }
+    
+    .line {
+        width: 50px;
+        height: 4px;
+        flex-shrink: 0;
+        background-color: #F67E7E;
+        margin-top: 250px;
+        margin-left: 830px;
+        position: absolute;
+    }
+
+    .circe{
+        top:100px;
+        right: 0;
+        /* width: 100px; */
+        height: 100px;
+        position: absolute;
+    }
+    
+    
+    
+    
