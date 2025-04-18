@@ -173,3 +173,10 @@ main {
     margin-right: 540px;
     right: 1;
 }
+
+.circleStart{
+    position: absolute;
+    top: 624px;
+    right: 150px;
+    width: 343px;
+}
