@@ -39,9 +39,10 @@ background-color: #014E56;
     font-weight: 600;
     line-height: 28px;
     color: white;
-    margin-top: 73px;
+    margin-top: 4vw;
     margin-left: 1122px;
     margin-right: 165px;
+    text-align: center;
 }
 
 .Find {
@@ -87,4 +88,73 @@ background-color: #014E56;
 }
 
 
+/*MyTeam Footer*/
+.home2{
+    color: #FFF;
+    margin-top: 83px;
+    margin-left: 90px;
+    position: absolute;
+    font-family: Livvic;
+    font-size: 20px;
+}
 
+.about2{
+    color: #FFF;
+    margin-top: 83px;
+    margin-left: 166px;
+    position: absolute;
+    font-family: Livvic;
+    font-size: 20px;
+}
+
+.myteam2{
+    margin-left: 5vw;
+    margin-top: 2vw;
+}
+
+.rengtangle2{
+    border-radius: 24px;
+    border: 2px solid #012F34;
+    width: 158px;
+    height: 48px;
+    background-color: transparent;
+    color: #012F34;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    color: white;
+    margin-top: -3vw;
+    margin-left: 1183px;
+    margin-right: 165px;
+    text-align: center;
+    display: grid;
+}
+
+.media{
+display: flex;
+row-gap: 10px;
+font-size: 25px;
+color: white;
+}
+
+
+.media2,.media3,.media4{
+    width: 40px;
+}
+.media2:hover,.media3:hover,.media4:hover{
+    color: #F67E7E;
+    transition: 0.3s;
+}
+
+.p2{
+    margin-left: 511px;
+    display: flex;
+    width: 100%;
+}
+
+.contact{
+    background-color: #012F34;
+    margin:60px;
+}
