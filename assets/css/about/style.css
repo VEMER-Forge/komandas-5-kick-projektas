@@ -97,4 +97,15 @@ body{
     
     
     
+    .red-line{
+        width: 100vw;
+        background-color:#f67e7e;
+    }
+    
+    .dark-line{
+        width: 100vw;
+        background-color:#002529;
+    
+    }
+
     
