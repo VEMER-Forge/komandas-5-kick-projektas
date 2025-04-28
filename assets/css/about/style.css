@@ -30,13 +30,10 @@ body{
     .rengtangle{
         position: absolute;
         border-radius: 24px;
-<<<<<<< HEAD
         border: 2px solid #ffffff;
         width: 153px;
-=======
         border: 2px solid #012F34;
         /* width: 153px; */
->>>>>>> dfd47bd2ee8f3e6ef8bddc256c035e2dc2667203
         height: 48px;
         background-color: transparent;
         color: #012F34;
@@ -125,19 +122,21 @@ body{
 .home2{
     color: #FFF;
     margin-top: 83px;
-    margin-left: 90px;
+    margin-left: -150px;
     position: absolute;
     font-family: Livvic;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .about2{
     color: #FFF;
     margin-top: 83px;
-    margin-left: 166px;
+    margin-left: -80px;
     position: absolute;
     font-family: Livvic;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .myteam2{
@@ -185,4 +184,57 @@ color: white;
     margin-left: 511px;
     display: flex;
     width: 100%;
+}
+
+.graytext{
+    margin-left: 100px;
+    font-size: 17px;
+    color: gray;
+}
+
+#contact{
+    display: grid
+    ;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        /* max-width: 1200px; */
+        margin: 0 auto;
+        background-color: #002529;
+        padding: 50px;
+}
+
+.rengtangle2{
+    border-radius: 24px;
+    border: 2px solid #012F34;
+    width: 158px;
+    height: 48px;
+    color: #012F34;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 45px;
+    color: white;
+    margin-top: -7%;
+    margin-left: 75%;
+    margin-right: 165px;
+    text-align: center;
+    display: grid;
+    cursor: pointer;
+}
+
+.rengtangle2:hover{
+    transition-duration: 0.5s;
+    color: rgb(40, 79, 83);
+    background-color: rgba(255, 255, 255, 0.847);
+}
+
+.banner{           
+ background-color: #F67E7E;
+font-family: Livvic;
+font-style: normal;
+font-weight: 700;
+line-height: 48px;
+margin: auto;
+height: 200px; padding:20px;
 }
