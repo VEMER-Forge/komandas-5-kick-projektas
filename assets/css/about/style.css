@@ -27,28 +27,6 @@ body{
         text-decoration: none;
     }
     
-    .rengtangle{
-        position: absolute;
-        border-radius: 24px;
-        border: 2px solid #ffffff;
-        width: 153px;
-        height: 48px;
-        background-color: transparent;
-        color: #012F34;
-        font-family: Livvic;
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 28px;
-        color: white;
-        /* margin-top: 73px;
-        margin-left: 1450px; */
-        top: 100px;
-        right: 0;
-        left: 1233px;
-        width: 130px;
-    }
-    
     .aboutTxt {
         position: absolute ;
         color: #FFFFFF;
