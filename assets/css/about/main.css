@@ -1,6 +1,5 @@
 .main {
     background-color: #004047;
-    margin-top: 517px;
 }
 
 .cube{
@@ -63,9 +62,9 @@ footer{
 img.figura{
     width: 200px;
     height: 144px;
-    /* margin-top: 56px; */
+     margin-top: 96px; 
     margin-left: 0px;
-    /* margin-right: auto; */
+     margin-right: auto; 
     position: absolute;
     left: 0;
 
@@ -84,4 +83,30 @@ img.figura{
     height: 30px;
     width: 120px;
     cursor:pointer;
+    }
+
+    @media (min-width:720){
+        .media{
+    margin-left:-350px;
+    
+        }
+    }
+
+    .ready_black-text{
+        padding-top: 100px;
+        padding-top: 100px;
+        text-align: center;
+        color: #012F34;
+        font-size: 48px;
+        font-family: Livvic;
+        font-weight: 700;
+        line-height: 48px;
+        word-wrap: break-word;
+        margin-right: 25vw;
+        margin-top: -20px;
+    }
+
+
+    .CopyrightAbout{
+display: flex;
     }
