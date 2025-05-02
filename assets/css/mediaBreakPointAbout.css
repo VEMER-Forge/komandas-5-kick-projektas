@@ -130,3 +130,9 @@ display: flex;
     width: 77px;
 }
     }
+
+    @media(max-width:855px){
+        .main{
+            width:855px
+        }
+    }
