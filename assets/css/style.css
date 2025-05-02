@@ -34,11 +34,11 @@ article {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
-text-align: center;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 28px; /* 155.556% */
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 155.556% */
 }
 
 #succesinfo{

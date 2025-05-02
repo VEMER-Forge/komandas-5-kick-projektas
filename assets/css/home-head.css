@@ -37,13 +37,8 @@ background-color: #014E56;
     font-style: normal;
     font-weight: 600;
     line-height: 28px;
-<<<<<<< HEAD
-    color: #FFFFFF;
-    margin-top: 73px;
-=======
     color: white;
     margin-top: 4vw;
->>>>>>> dfd47bd2ee8f3e6ef8bddc256c035e2dc2667203
     margin-left: 1122px;
     margin-right: 165px;
     text-align: center;
@@ -89,8 +84,6 @@ background-color: #014E56;
     margin-top: 250px;
     margin-left: 830px;
     position: absolute;
-<<<<<<< HEAD
-=======
 }
 
 .circlee {
@@ -171,5 +164,4 @@ color: white;
 .contact{
     background-color: #012F34;
     margin:60px;
->>>>>>> dfd47bd2ee8f3e6ef8bddc256c035e2dc2667203
 }
