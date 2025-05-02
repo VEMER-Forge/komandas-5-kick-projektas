@@ -1,0 +1,181 @@
+nav{
+    background-color: #014E56;
+    width: 100%;
+    height: 789px;
+}
+
+.myteam {
+    width: 160px;
+    height: 40px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 77px;
+    bottom: 672px;
+    left: 165px;
+    right: 1115px;
+}
+
+.home {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 155.556% */
+    position: absolute;
+    top: 83px;
+    bottom: 678px;
+    left: 405px;
+    right: 986px;
+}
+
+.about {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 155.556% */
+    position: absolute;
+    top: 83px;
+    bottom: 678px;
+    left: 494px;
+    right: 895px;
+}
+
+.rengtangle{
+    border-radius: 24px;
+    border: 2px solid #FFF;
+    width: 153px;
+    height: 48px;
+    flex-shrink: 0;
+    background-color: transparent;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 73px;
+    position: absolute;
+    top: 73px;
+    bottom: 668px;
+    left: 1122px;
+    right: 165px;
+    text-align: center;
+}
+
+.contact{
+    width: 350px;
+    height: 100px;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100px; /* 156.25% */
+    position: absolute;
+    top: 241px;
+    bottom: 448px;
+    left: 165px;
+    right: 925px;
+}
+
+.Ask{
+    width: 540px;
+    height: 48px;
+    color: #F67E7E;
+    font-family: Livvic;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 150% */
+    position: absolute;
+    top: 357px;
+    bottom: 384px;
+    left: 165px;
+    right: 735px;
+}
+
+.the{
+    width: 445px;
+    height: 28px;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 155.556% */
+    position: absolute;
+    top: 459px;
+    bottom: 302px;
+    left: 260px;
+    right: 735px;
+}
+
+.usage{
+    height: 28px;
+    width: 445px;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 155.556% */
+    position: absolute;
+    top: 539px;
+    bottom: 222px;
+    left: 260px;
+    right: 735px;
+}
+
+.help{
+    width: 445px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 155.556% */
+    position: absolute;
+    top: 619px;
+    bottom: 142px;
+    left: 260px;
+    right: 735px;
+}
+
+.icon{
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 437px;
+    bottom: 280px;
+    left: 165px;
+    right: 1203px;
+}
+
+.ez{
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 517px;
+    bottom: 200px;
+    left: 165px;
+    right: 1203px;
+}
+
+.enc{
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 597px;
+    bottom: 120px;
+    left: 165px;
+    right: 1203px;
+}
