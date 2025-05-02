@@ -1,0 +1,87 @@
+body{
+    background-color: #002529;;
+}
+footer{
+    height: 196px;
+    width: 100%;
+    background: #002529;
+    
+}
+header{
+    height: 789px;
+    width: 100%;
+    padding: 40px;
+    border: none;
+    
+    background: #014E56;
+}
+.myt{
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 165px;
+    width: 160px;
+    height: 40px;
+}
+
+.home{
+    position: absolute;
+    margin-top: 113px;
+    margin-left: 165px;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    text-decoration: none;
+    color: #FFFFFF
+    
+   
+}
+
+.about{
+    position: absolute;
+    margin-top: 113px;
+    margin-left: 254px;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    text-decoration: none;
+    color: #FFFFFF
+
+}
+
+.textt{
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 450px;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 15px;
+    font-style: normal;
+    line-height: 25px;
+    font-weight: 600;
+    color: #949494;
+}
+
+.text{
+    position: absolute;
+    margin-top: 123px;
+    margin-left: 1020px;
+    text-align: right;
+    font-family: Livvic;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    color: #949494;
+}
+
+.photo{
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 1171px;
+    width: 104px;
+    height: 24px;
+}
