@@ -9,15 +9,7 @@ button.rengtangle{
     transition-duration: 0.5s;
 }
 
-button.regtangle-dark:hover{
-    cursor: pointer; 
-    background-color:#012F34;
-    color:#FFFFFF;
-}
 
-button.regtangle-dark{
-    transition-duration: 0.5s;
-}
 
 button.rengtangle:hover {
     cursor: pointer; 
@@ -25,6 +17,16 @@ button.rengtangle:hover {
     color:#012F34;
 }
 
+button.button-dark:hover{
+    cursor: pointer; 
+    background-color:#012F34;
+    color:#FFFFFF;
+}
+
+button.button-dark{
+    transition-duration: 0.5s;
+    color: #012F34;
+}
 
 
 body{
