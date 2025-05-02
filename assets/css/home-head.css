@@ -39,9 +39,9 @@ background-color: #014E56;
     line-height: 28px;
     color: white;
     margin-top: 4vw;
-    left: 0;
-    right: 0;
     text-align: center;
+    left: 1500px;
+    right: 0%;
 }
 
 .Find {
@@ -88,9 +88,8 @@ background-color: #014E56;
 
 .circlee {
     position: absolute;
-    margin-top: 520px;
+    margin-top: 624px;
     margin-left: 1050px;
-
 }
     
 

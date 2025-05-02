@@ -103,7 +103,6 @@ article {
     
 }
 
-/* Call to action section */
 section > section {
     text-align: center;
 }
@@ -130,10 +129,6 @@ section > section:nth-child(2) p {
 
 .figura {
     position: absolute;
-}
-
-.button {
-    position: relative;
 }
 
 #contact {

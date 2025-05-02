@@ -8,3 +8,11 @@
     background-color: #012F34;
     bottom: 437px;
 }
+
+.titleClient
+{
+    color: #FFF;
+    text-align: center;
+    font-size: 48px;
+    font-family: Livvic;
+}

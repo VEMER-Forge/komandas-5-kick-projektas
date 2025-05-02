@@ -7,6 +7,8 @@
 
 button.rengtangle{
     transition-duration: 0.5s;
+    left: 1500px;
+    right: 0%;
 }
 
 
