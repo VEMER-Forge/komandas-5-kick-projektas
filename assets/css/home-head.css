@@ -103,6 +103,7 @@ background-color: #014E56;
     position: absolute;
     font-family: Livvic;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .about2{
@@ -112,6 +113,7 @@ background-color: #014E56;
     position: absolute;
     font-family: Livvic;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .myteam2{
@@ -124,26 +126,38 @@ background-color: #014E56;
     border: 2px solid #012F34;
     width: 158px;
     height: 48px;
-    background-color: transparent;
     color: #012F34;
     font-family: Livvic;
     font-size: 18px;
     font-style: normal;
     font-weight: 600;
-    line-height: 28px;
+    line-height: 45px;
     color: white;
-    margin-top: -3vw;
-    margin-left: 1183px;
+    margin-top: -4%;
+    margin-left: 80%;
     margin-right: 165px;
     text-align: center;
     display: grid;
+    cursor: pointer;
+    background-color: transparent;
 }
+
+.rengtangle2:hover{
+    transition-duration: 0.5s;
+    color: rgb(40, 79, 83);
+    background-color: rgba(255, 255, 255, 0.847);
+}
+
+
 
 .media{
 display: flex;
 row-gap: 10px;
 font-size: 25px;
 color: white;
+height: 30px;
+width: 120px;
+cursor:pointer;
 }
 
 
