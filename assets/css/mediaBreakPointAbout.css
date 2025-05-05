@@ -1,0 +1,138 @@
+/*HEADER ABOUT DALYS*/
+
+@media (max-width: 855px){
+    .circe{
+
+    }
+}
+
+
+@media (max-width: 855px){
+    .rengtangle{
+        top:70px;
+        left:700px;
+    }
+}
+
+@media (max-width: 855px){
+    .aboutTxt{
+        text-align: center;
+        justify-content: space-evenly;
+        margin-top: 230px;
+        margin-left: 39%;
+    }
+    .main{
+        width:855px
+    }
+    }
+
+    @media (max-width: 1155px) and (min-width:855px){
+        .aboutTxt{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-left: 360px;
+    margin-top: 225px;
+        }
+        }
+    
+
+    @media (max-width: 855px) {
+        .textt{
+            margin-left: 15%;
+            font-size: 18px;
+            text-align: center;
+            font-family: Livvic;
+        } 
+    }
+
+
+    
+   @media (max-width: 1155px) and (min-width:855px) {
+    .textt{
+        margin-left: 216px;
+        font-size: 16px;
+        text-align: center;
+        font-family: Livvic;
+    } 
+    }
+
+    @media (min-width:855){
+        .line{
+        opacity: 0;
+        margin-left: 0px;
+        }
+    }
+    
+@media (min-width:855){
+    .media{
+margin-left:-350px;
+
+    }
+}
+
+
+
+/*Footer*/
+
+
+
+@media (max-width: 855px){
+.ready_black-text{
+    margin-right: 20vw;
+    font-size: 30px;
+    margin-top:-20px;
+}
+}
+
+
+@media (max-width: 1155px){
+    .graytext{
+        margin-left: 15px;
+    }
+}
+
+@media (max-width: 855px){
+    .banner{
+        width:855px;
+    }
+}
+
+@media (max-width: 855px){
+    .group{
+        display: block;
+        margin-left: 50px;
+
+    }
+}
+
+@media (max-width: 855px){
+    .pirmas{
+display: flex;
+    }
+    .antras{
+        display: flex;
+            }
+            .trecias{
+                display: flex;
+                    }
+}
+
+@media(max-width: 855px){
+    .circe{
+        /*margin-top: 388px; */
+    top: 341px;
+    right: -69px;
+    /* margin-right: 10px; */
+    /* margin-left: 156px; */
+    /* width: 100px; */
+    height: 130px;
+    position: absolute;
+    width: 77px;
+}
+    }
+
+    @media(max-width:855px){
+        .main{
+            width:855px
+        }
+    }
