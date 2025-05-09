@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 84px 165px;
+    padding: 0 165px;
     background-color: #014E56;
   }
 
@@ -36,6 +36,8 @@ body {
     display: flex;
     gap: 40px;
     align-items: center;
+    margin-right: 1200px;
+    margin-bottom: 110px;
   }
 
   .nav-links a {
@@ -203,6 +205,25 @@ body {
     opacity: 0.6;
   }
 
+  .upc{
+    width: 200px;
+    height: 200px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 245px;
+    left: 0;
+  }
+
+  .dwnc{
+    width: 225px;
+    height: 200px;
+    /* transform: rotate(-90deg); */
+    flex-shrink: 0;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+
   @media (max-width: 1200px) {
     header nav,
     main.content,
@@ -271,7 +292,7 @@ body {
     .submit-btn {
       width: 100%;
     }
-  } *
+  }
 
   @media (max-width: 992px) {
     footer {
@@ -296,7 +317,7 @@ body {
       gap: 24px;
     }
   }
-gfdgfd
+/* gfdgfd */
 @media (max-width: 992px) {
   footer {
     flex-direction: column;
