@@ -1,18 +1,24 @@
 body{
     background-color: #014E56;
-    
+    margin: 0;
     }
-    /* mobile */
-    @media (width: 767px) {
-    .myteam {
-        margin: 0;
-    }  
 
     .topmenu{
-        text-align: center;
-        margin: auto;
+        width: 1440px;
+        height: 517px;
     }
 
+    .Rectangle{
+    width: 153px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    border: 2px solid #FFF;
+    background-color: transparent;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    }
     
     .home {
         color: #FFF;
@@ -87,8 +93,8 @@ body{
         position: absolute;
         width: 77px;
     }
-    }
-}
+
+
 
 /*footer*/
 
