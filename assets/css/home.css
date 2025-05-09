@@ -2,6 +2,9 @@ body{
     color: white;
     font-family: Livvic;
 }
+.nav{
+    position: relative;
+}
 
 #banner{
     background-color: #F67E7E;
@@ -31,6 +34,12 @@ body{
     justify-content: space-evenly;
 }
 
+.photooo{
+    position: absolute;
+    width: 80px;
+    bottom: 0;
+    right: 0;
+}
 
 
 footer{
@@ -75,4 +84,8 @@ img.figura{
 
 .graytext{
     color: gray;
+}
+
+.section{
+    display: flex;
 }

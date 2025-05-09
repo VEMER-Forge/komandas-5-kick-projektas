@@ -2,6 +2,7 @@ main {
     background: #012f34;
     color: #FFF;
     padding: 100px 50px;
+    position: relative;
   }
    
   #infotext {

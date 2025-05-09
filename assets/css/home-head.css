@@ -42,6 +42,7 @@ background-color: #014E56;
     left: 0;
     right: 0;
     text-align: center;
+    margin-left: 1400px;
 }
 
 .Find {
@@ -61,14 +62,25 @@ background-color: #014E56;
 
 
 .textt {
-    margin-top: 333px;
-    margin-left: 830px;
     position: absolute;
     text-align: left;
     font-size: 18px;
     color: #FFFFFF;
+    margin-top: 300px;
+    margin-left: 51%;
+    width: 71%;
 }
-
+@media (max-width:720){
+    .textt{
+        position: fixed;
+        text-align: left;
+        font-size: 18px;
+        color: #FFFFFF;
+        margin-top: 300px;
+        margin-left: 10%;
+        width: 36%;
+    }
+}
 .circles {
     position: absolute;
     margin-top: 250px;
@@ -88,8 +100,8 @@ background-color: #014E56;
 
 .circlee {
     position: absolute;
-    margin-top: 520px;
-    margin-left: 1050px;
+    right: 0;
+
 
 }
     
