@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
   background-color: #014E56;
   margin: 0;
   }
@@ -120,6 +121,104 @@ body{
 
  
  
+=======
+    background-color: #014E56;
+    margin: 0;
+    }
+
+    .topmenu{
+        width: 1440px;
+        height: 517px;
+    }
+
+    .Rectangle{
+    width: 153px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    border: 2px solid #FFF;
+    background-color: transparent;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    }
+    
+    .home {
+        color: #FFF;
+        /* margin-top: 83px;
+        margin-left: 405px; */
+        top: 200px;
+       
+        font-family: Livvic;
+        text-decoration: none;
+    }
+    
+    .about {
+        color: #FFFFFF;
+        margin-top: 83px;
+        margin-left: 494px;
+        font-family: Livvic;
+        position: absolute;
+        text-decoration: none;
+    }
+    
+    .aboutTxt {
+        position: absolute ;
+        color: #FFFFFF;
+        text-align: left;
+        font-size: 100px;
+        line-height: 100px;
+        font-family: Livvic;
+        margin-left: 165px;
+        margin-top: 250px;
+    }
+    .pink{
+        color: #F67E7E;
+    }
+    
+    
+    
+    .textt {
+        margin-top: 333px;
+        margin-left: 830px;
+        position: absolute;
+        text-align: left;
+        font-size: 18px;
+        color: #FFFFFF;
+        font-family: Livvic;
+    }
+    
+    .circles {
+        position:absolute;
+        margin-top: 250px;
+        margin-right: 1340px;
+        margin-left: 0%;
+    }
+    
+    .line {
+        width: 50px;
+        height: 4px;
+        flex-shrink: 0;
+        background-color: #F67E7E;
+        margin-top: 250px;
+        margin-left: 830px;
+        position: absolute;
+    }
+
+    .circe{
+       /* margin-top: 388px; */
+        top: 341px;
+        right: -23px;
+        /* margin-right: 10px; */
+        /* margin-left: 156px; */
+        /* width: 100px; */
+        height: 130px;
+        position: absolute;
+        width: 77px;
+    }
+
+
+>>>>>>> 1b015384544a210627486e4309defe86d458fe5f
 
 /*footer*/
 
