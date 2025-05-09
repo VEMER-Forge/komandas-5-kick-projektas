@@ -3,11 +3,30 @@ body{
     margin: 0;
     }
 
+<<<<<<< HEAD
     .myteam {
         position: absolute;
         top: 77px;
         left: 165px;
     }
+=======
+    .topmenu{
+        width: 1440px;
+        height: 517px;
+    }
+
+    .Rectangle{
+    width: 153px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    border: 2px solid #FFF;
+    background-color: transparent;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    }
+>>>>>>> 1b015384544a210627486e4309defe86d458fe5f
     
     .home {
         position: absolute;
@@ -37,89 +56,6 @@ body{
        text-decoration: none;
     }
 
-    .textt {
-        top: 285px;
-        
-        left: 545px;
-        color: #FFF;
-        font-family: Livvic;
-        font-size: 18px;
-        font-style: normal;
-        text-align: left;
-        font-weight: 600;
-        line-height: 28px;
-        position: absolute;
-        width: 730px;
-        height: 112px;
-        
-        
-    }
-
-    .aboutTxt {
-        position: absolute;
-        top: 164px;
-        right: 925px;
-        left: 165px;
-        color: #FFF;
-        font-family: Livvic;
-        font-size: 64px;
-        font-style: normal;
-        text-align: left;
-        font-weight: 700;
-        line-height: 100px;
-        width: 350px;
-    }
-
-    .circe {
-        position: absolute;
-        top: 317px;
-        right: 0px;
-        /* width: 150px; */
-        height: 200px;
-        flex-shrink: 0;
-    }
-
-    #topmenu{
-        /* width: 100%; */
-        height: 517px;
-        background-color: #014E56;
-        /* text-align: center; */
-        margin: 0 auto;
-        text-align: center;
-        align-items: center;    
-        
-        /* padding-top: 77px; */
-        /* padding-right: 1115px; */
-        
-
-    }
-
-    div #topmenu{
-        text-align: center;
-        margin: 0 auto;
-    }
-    .rengtangle {
-        border-radius: 24px;
-        border: 2px solid #ffffff;
-        width: 153px;
-        height: 48px;
-        background-color: transparent;
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 28px;
-        color: white;
-        position: absolute;
-        top: 73px;
-        right: 165px;
-        left: 1122px;
-       
-        text-align: center;
-    }
-
-
-    
-    
 
 /*footer*/
 
