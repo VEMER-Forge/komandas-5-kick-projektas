@@ -1,10 +1,54 @@
-.imgClip{
-    position: absolute;
-    height: 200px;
-}
 
 .clients{
-    height: 308px;
+    height: 437px;
     background-color: #012F34;
-    bottom: 437px;
+    padding: 0;
+}
+
+.taxt {
+    color: #FFF;
+    text-align: center;
+    font-family: Livvic;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    top: 118px;
+    position: relative;
+}
+
+.varge {
+    width: 165px;
+    top: 165px;
+    position: relative;
+    left: 91px;
+}
+
+.jakar {
+    position: relative;
+    width: 263px;
+    top: 171px;
+    left: 189px;
+
+}
+
+.guardian {
+    position: relative;
+    width: 217px;
+    top: 139px;
+    left: 292px;
+}
+
+.tech {
+    position: relative;
+    top: 135px;
+    width: 167px;
+    left: 399px;
+}
+
+.gadgets {
+    position: relative;
+    top: 146px;
+    width: 104px;
+    left: 488px;
 }
