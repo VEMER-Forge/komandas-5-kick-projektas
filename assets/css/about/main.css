@@ -5,6 +5,9 @@
 .cube{
     width: 100px;
     left: 0;
+    top: 902px;
+    right: 0px;
+    position: relative;
 }
 
 .text{
