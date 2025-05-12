@@ -116,4 +116,6 @@ img.figura{
 
     .CopyrightAbout{
 display: flex;
+position: absolute;
+right: 855px;
     }
