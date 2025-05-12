@@ -1,5 +1,4 @@
 body{
-<<<<<<< HEAD
   background-color: #014E56;
   margin: 0;
   }
@@ -114,25 +113,15 @@ body{
       top: 73px;
       right: 165px;
       left: 1122px;
-     
       text-align: center;
   }
- 
 
- 
- 
-=======
-    background-color: #014E56;
-    margin: 0;
-    }
-
-<<<<<<< HEAD
     .myteam {
         position: absolute;
         top: 77px;
         left: 165px;
     }
-=======
+
     .topmenu{
         width: 1440px;
         height: 517px;
@@ -149,8 +138,16 @@ body{
     font-family: Livvic;
     font-size: 18px;
     }
->>>>>>> 1b015384544a210627486e4309defe86d458fe5f
     
+    .line {
+      width: 50px;
+      height: 4px;
+      background-color: #f67e7e;
+      position: absolute;
+      top: 241px;
+      left: 545px;
+      }
+
     .home {
         position: absolute;
         top: 83px;
@@ -179,12 +176,6 @@ body{
        text-decoration: none;
     }
 
-
-<<<<<<< HEAD
->>>>>>> 1b015384544a210627486e4309defe86d458fe5f
-
-=======
->>>>>>> 48123d15f27a839f528bf377838665dfe3505500
 /*footer*/
 
 .footer{
@@ -271,3 +262,26 @@ line-height: 48px;
 margin: auto;
 height: 200px; padding:20px;
 }
+
+.plusbutton{
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  justify-self: center;
+  align-content: center;
+  background-color: #F67E7E;
+  color: #012F34;
+}
+
+.plusbutton:hover{
+  background-color: #79C8C7;
+  color: #012F34;
+  rotate: 45deg;
+  transition: 0.3s;
+}
+
+
+/* .card:hover{
+  transition: 0.3s;
+} */
