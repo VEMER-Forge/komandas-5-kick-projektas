@@ -1,5 +1,4 @@
 body{
-
   background-color: #014E56;
   margin: 0;
   }
@@ -114,13 +113,14 @@ body{
       top: 73px;
       right: 165px;
       left: 1122px;
-     
       text-align: center;
   }
- 
 
- 
-
+    .myteam {
+        position: absolute;
+        top: 77px;
+        left: 165px;
+    }
 
     .topmenu{
         width: 1440px;
@@ -139,6 +139,15 @@ body{
     font-size: 18px;
     }
     
+    .line {
+      width: 50px;
+      height: 4px;
+      background-color: #f67e7e;
+      position: absolute;
+      top: 241px;
+      left: 545px;
+      }
+
     .home {
         position: absolute;
         top: 83px;
@@ -166,8 +175,6 @@ body{
        text-align: center   ;
        text-decoration: none;
     }
-
-
 
 /*footer*/
 
@@ -264,341 +271,25 @@ margin: auto;
 height: 200px; padding:20px;
 }
 
-@media(min-width: 1440px){ 
-    body{
-
-        background-color: #014E56;
-        margin: 0;
-        }
-      
-        .myteam {
-            position: absolute;
-            top: 77px;
-            left: 165px;
-        }
-       
-        .home {
-            position: absolute;
-            top: 83px;
-            left: 405px;
-            color: #FFF;
-            text-decoration: none;
-            font-size: 18px;
-            font-style: normal;
-            font-weight: 600;
-            line-height: 28px;
-            text-align: center;
-            font-family: Livvic;
-        }
-      
-        .about {
-            position: absolute;
-            top: 83px;
-            left: 494px;
-            color: #FFF;
-           font-family: Livvic;
-           font-size: 18px;
-           font-style: normal;
-           font-weight: 600;
-           line-height: 28px;
-           text-align: center   ;
-           text-decoration: none;
-        }
-      
-        .textt {
-            top: 285px;
-           
-            left: 545px;
-            color: #FFF;
-            font-family: Livvic;
-            font-size: 18px;
-            font-style: normal;
-            text-align: left;
-            font-weight: 600;
-            line-height: 28px;
-            position: absolute;
-            width: 730px;
-            height: 112px;
-           
-           
-        }
-      
-        .aboutTxt {
-            position: absolute;
-            top: 164px;
-            right: 925px;
-            left: 165px;
-            color: #FFF;
-            font-family: Livvic;
-            font-size: 64px;
-            font-style: normal;
-            text-align: left;
-            font-weight: 700;
-            line-height: 100px;
-            width: 350px;
-        }
-      
-        .circe {
-            position: absolute;
-            top: 317px;
-            right: 0px;
-            /* width: 150px; */
-            height: 200px;
-            flex-shrink: 0;
-        }
-      
-        #topmenu{
-            /* width: 100%; */
-            height: 517px;
-            background-color: #014E56;
-            /* text-align: center; */
-            margin: 0 auto;
-            text-align: center;
-            align-items: center;    
-           
-            /* padding-top: 77px; */
-            /* padding-right: 1115px; */
-           
-      
-        }
-      
-        div #topmenu{
-            text-align: center;
-            margin: 0 auto;
-        }
-        .rengtangle {
-            border-radius: 24px;
-            border: 2px solid #ffffff;
-            width: 153px;
-            height: 48px;
-            background-color: transparent;
-            font-size: 18px;
-            font-style: normal;
-            font-weight: 600;
-            line-height: 28px;
-            color: white;
-            position: absolute;
-            top: 73px;
-            right: 165px;
-            left: 1122px;
-           
-            text-align: center;
-        }
-       
-      
-       
-      
-      
-          .topmenu{
-              width: 1440px;
-              height: 517px;
-          }
-      
-          .Rectangle{
-          width: 153px;
-          height: 48px;
-          flex-shrink: 0;
-          border-radius: 24px;
-          border: 2px solid #FFF;
-          background-color: transparent;
-          color: #FFF;
-          font-family: Livvic;
-          font-size: 18px;
-          }
-          
-          .home {
-              position: absolute;
-              top: 83px;
-              left: 405px;
-              color: #FFF;
-              text-decoration: none;
-              font-size: 18px;
-              font-style: normal;
-              font-weight: 600;
-              line-height: 28px;
-              text-align: center;
-              font-family: Livvic;
-          }
-      
-          .about {
-              position: absolute;
-              top: 83px;
-              left: 494px;
-              color: #FFF;
-             font-family: Livvic;
-             font-size: 18px;
-             font-style: normal;
-             font-weight: 600;
-             line-height: 28px;
-             text-align: center   ;
-             text-decoration: none;
-          }
-      
-      
-      
-      /*footer*/
-      
-      .footer{
-        display: flex;
-        text-align: center;
-        justify-content: space-evenly;
-      }
-      .button1{
-        text-align: center;
-        justify-content: center;
-        margin-top: auto;
-      }
-      
-      .home2{
-        color: #FFF;
-        margin-top: 83px;
-       
-        position: absolute;
-        font-family: Livvic;
-        font-size: 20px;
-        text-decoration: none;
-        left: 165px;
-      }
-      
-      .about2{
-        color: #FFF;
-        margin-top: 83px;
-        left: 254px;
-        position: absolute;
-        font-family: Livvic;
-        font-size: 20px;
-        text-decoration: none;
-      }
-      
-      .myteam2{
-      position: absolute;
-      
-      left: 165px;
-      }
-      
-      .media{
-      row-gap: 10px;
-      font-size: 25px;
-      color: white;
-      display: flex;
-      justify-content: end;
-      width: 90%;
-      
-      }
-      
-      
-      .media2,.media3,.media4{
-        width: 40px;
-      }
-      .media2:hover,.media3:hover,.media4:hover{
-        color: #F67E7E;
-        transition: 0.3s;
-      }
-      
-      .p2{
-        margin-left: 511px;
-        display: flex;
-        width: 100%;
-      }
-      
-      .graytext{
-          position: absolute;
-        left: 450px;
-        /* top: 48px; */
-        font-size: 17px;
-        color: gray;
-      }
-      
-      #contact{
-        display: grid
-        ;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-            /* max-width: 1200px; */
-            margin: 0 auto;
-            background-color: #002529;
-            padding: 50px;
-            height: 196px;
-      }
-      
-      .banner{          
-      background-color: #F67E7E;
-      font-family: Livvic;
-      font-style: normal;
-      font-weight: 700;
-      line-height: 48px;
-      margin: auto;
-      height: 200px; padding:20px;
-      }
-      
-}
-@media (min-width: 768px) and (max-width: 1439px){
-    .myteam {
-        position: absolute;
-      top: 77px;
-      left: 39px;
-  }
-
-  .home {
-    position: absolute;
-    top: 83px;
-    left: 250px;
-    color: #FFF;
-    text-decoration: none;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 28px;
-    text-align: center;
-    font-family: Livvic;
-  }
-
-  .about {
-    position: absolute;
-    top: 83px;
-    left: 328px;
-    color: #FFF;
-   font-family: Livvic;
-   font-size: 18px;
-   font-style: normal;
-   font-weight: 600;
-   line-height: 28px;
-   text-align: center   ;
-   text-decoration: none;
+.plusbutton{
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  justify-self: center;
+  align-content: center;
+  background-color: #F67E7E;
+  color: #012F34;
 }
 
-.textt {
-    top: 304px;
-   
-    left: 155px;
-    color: #FFF;
-    font-family: Livvic;
-    font-size: 18px;
-    font-style: normal;
-    text-align: left;
-    font-weight: 600;
-    line-height: 28px;
-    position: absolute;
-    width: 730px;
-    height: 112px;
-    text-align: center;
-   
-   
+.plusbutton:hover{
+  background-color: #79C8C7;
+  color: #012F34;
+  rotate: 45deg;
+  transition: 0.3s;
 }
 
-.aboutTxt {
-    position: absolute;
-    top: 224px;
-    left: 260px;
-    color: #FFF;
-    font-family: Livvic;
-    font-size: 64px;
-    font-style: normal;
-    text-align: left;
-    font-weight: 700;
-    line-height: 100px;
-    width: 350px;
-    text-align: center;
-}
-    }
 
+/* .card:hover{
+  transition: 0.3s;
+} */
