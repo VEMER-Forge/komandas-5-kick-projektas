@@ -7,6 +7,6 @@
 
 <p align="center">Yehor Derii</p>
 <p align="center">Dominik Jakubovič</p>
-<p align="center">Rapolas Kiveris</p>
+<p align="center">Laurinas Labanaus</p>
 <p align="center">Damian Liubkevič</p>
 <p align="center">Aleksandr Lukošius</p>

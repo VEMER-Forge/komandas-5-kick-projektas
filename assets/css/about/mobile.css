@@ -1,0 +1,215 @@
+
+@media screen and (max-width: 375px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  header {
+    padding-bottom: 60px;
+  }
+  
+  .navbar {
+    padding: 40px 24px 0;
+  }
+  
+  .hamburger-menu {
+    display: block;
+    font-size: 32px;
+    right: 24px;
+    top: 40px;
+  }
+  
+  .hero-about {
+    padding: 40px 24px;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  
+  .hero-about h1 {
+    font-size: 40px;
+    margin-bottom: 24px;
+  }
+  
+  .red-line {
+    margin: 0 auto 24px;
+  }
+  
+  .hero-text {
+    font-size: 15px;
+    line-height: 25px;
+    margin: 0 auto;
+  }
+  
+  .circle-pattern {
+    width: 100px;
+    top: unset;
+    right: -50px;
+    bottom: -50px;
+  }
+  
+  .geometric-pattern {
+    width: 100px;
+    left: -50px;
+    bottom: 0;
+  }
+  
+  .directors-section {
+    padding: 80px 24px;
+  }
+  
+  .directors-section h2 {
+    font-size: 32px;
+    margin-bottom: 48px;
+  }
+  
+  .directors-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+    max-width: 100%;
+  }
+  
+  .director-card {
+    max-width: 100%;
+    padding: 24px 15px;
+  }
+  
+  .director-image {
+    width: 88px;
+    height: 88px;
+  }
+  
+  .pattern-bottom-right,
+  .pattern-bottom-left {
+    width: 100px;
+    opacity: 0.5;
+  }
+  
+  /* Clients section */
+  .clients-section {
+    padding: 64px 24px;
+  }
+  
+  .clients-section h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+  
+  .client-logos {
+    flex-direction: column;
+    gap: 56px;
+  }
+  
+  .client-logos img {
+    max-width: 160px;
+    height: auto;
+  }
+  
+  /* CTA Banner */
+  .cta-banner {
+    padding: 83px 24px;
+    flex-direction: column;
+    gap: 24px;
+  }
+  
+  .cta-banner h2 {
+    font-size: 32px;
+    text-align: center;
+  }
+  
+  /* Footer */
+  footer {
+    padding: 66px 24px;
+  }
+  
+  .footer-content {
+    flex-direction: column;
+  }
+  
+  .footer-left {
+    align-items: center;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .footer-logo-nav {
+    align-items: center;
+    text-align: center;
+  }
+  
+  .footer-logo {
+    margin-bottom: 24px;
+  }
+  
+  .footer-links {
+    flex-direction: column;
+    gap: 24px;
+    margin-bottom: 40px;
+  }
+  
+  .footer-address {
+    margin-bottom: 0;
+    text-align: center;
+  }
+  
+  .footer-right {
+    align-items: center;
+    width: 100%;
+  }
+  
+  .social-icons {
+    margin-bottom: 16px;
+  }
+  
+  .copyright {
+    text-align: center;
+  }
+  
+  /* Mobile menu styles */
+  .mobile-menu {
+    width: 80%;
+    padding: 40px 24px;
+  }
+  
+  .mobile-menu-header {
+    margin-bottom: 50px;
+  }
+  
+  .mobile-menu .logo {
+    font-size: 20px;
+    color: #fff;
+  }
+  
+  .mobile-menu-close {
+    font-size: 28px;
+  }
+  
+  .mobile-menu-nav {
+    margin-bottom: 50px;
+  }
+  
+  .mobile-menu-nav a {
+    font-size: 18px;
+    opacity: 0.8;
+  }
+  
+  .mobile-menu-nav a.active {
+    color: #F67E7E;
+    opacity: 1;
+  }
+  
+  .mobile-menu-button {
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Animation adjustments */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  .director-card {
+    animation: fadeIn 0.5s ease forwards;
+  }
+}
